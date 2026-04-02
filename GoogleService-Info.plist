@@ -1,0 +1,30 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAoytwDMwjOJgBMnez43ktR4FgeT3BSxtw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>622181732320</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ayon.tatamebjj</string>
+	<key>PROJECT_ID</key>
+	<string>ayon-tatame</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ayon-tatame.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<array/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:622181732320:ios:02b247fc7fbdaa801d6585</string>
+</dict>
+</plist>
